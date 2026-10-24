@@ -1,4 +1,4 @@
-# Scope Shop — Angular Frontend
+# ShopSphere — Angular Frontend
 
 A responsive product catalogue frontend for the existing `01_products_api` Spring Boot REST API.
 
